@@ -16,16 +16,13 @@ Resizable and **responsive window layout**
 ---
 
 ## Preview
+<img width="1920" height="1020" alt="Screenshot" src="https://github.com/user-attachments/assets/9d63095d-8b9b-409b-887e-a9275d4ef849" />
 
-> *(Add a screenshot of the app here)*  
-> Example:  
-> ![Temperature Converter Screenshot](screenshot.png)
 
----
 
 ##  Installation & Usage
 
 ### 1️ Clone the repository
 ```bash
-git clone https://github.com/yourusername/temperature-converter.git
+git clone https://github.com/GhostCoder6/temperature-converter.git
 cd temperature-converter
