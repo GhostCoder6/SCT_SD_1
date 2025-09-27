@@ -1,18 +1,27 @@
-#  Temperature Converter (Tkinter GUI)
+# 🌡️ Temperature Converter (Tkinter GUI)
 
 A modern, interactive, and user-friendly **Temperature Converter Application** built with **Python (Tkinter)**.  
 This desktop app provides accurate temperature conversions between **Celsius, Fahrenheit, and Kelvin**, offering both **single conversion** and **complete multi-scale conversion** options in a clean GUI.
 
 ---
 
-## Features
-Convert between **Celsius, Fahrenheit, and Kelvin**
-Choose between **Single Conversion** or **All Scales Conversion**
-Get a **detailed breakdown of conversions**, including formulas used
-**Modern Tkinter-based interface** with styled buttons and color theme
-Resizable and **responsive window layout**
-**Clear Results button** for quick reset
+## ✨ Features
+- 🔢 Convert between **Celsius, Fahrenheit, and Kelvin**
+- 🔄 Choose between **Single Conversion** or **All Scales Conversion**
+- 📑 Get a **detailed breakdown of conversions**, including formulas used
+- 🎨 **Modern Tkinter-based interface** with styled buttons and color theme
+- 📱 Resizable and **responsive window layout**
+- 🧹 **Clear Results button** for quick reset
 
+---
+
+## 🖼️ Preview
+
+> *(Add a screenshot of the app here)*  
+> Example:  
+> ![Temperature Converter Screenshot](screenshot.png)
+
+---
 
 ## 🚀 Installation & Usage
 
